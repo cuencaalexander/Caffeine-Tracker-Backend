@@ -4,9 +4,11 @@ This is Backend part of the Caffeine Tracker app
 
 ## Setup
 
-After cloning the project, go into the 'Caffeine-Tracker-Backend' directory and run the following command to install the required dependencies:
+After cloning the project, go into the 'Caffeine-Tracker-Backend' directory and run the following commands to install the required dependencies and setup the database:
 
-### `bundle`
+### `bundle install`
+
+### `rails db:migrate`
 
 ## To run project locally
 
