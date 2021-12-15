@@ -1,24 +1,21 @@
-# README
+# Caffeine Tracker Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is Backend part of the Caffeine Tracker app
 
-Things you may want to cover:
+## Setup
 
-* Ruby version
+After cloning the project, go into the 'Caffeine-Tracker-Backend' directory and run the following command to install the required dependencies:
 
-* System dependencies
+### `bundle`
 
-* Configuration
+## To run project locally
 
-* Database creation
+In the project directory, you can run:
 
-* Database initialization
+### `rails s`
 
-* How to run the test suite
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The page will reload if you make edits.\
+You will also see any errors in the console.
